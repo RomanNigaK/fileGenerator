@@ -1,0 +1,16 @@
+{
+  "name": "generatefiles",
+  "version": "1.0.0",
+  "description": "Генерация фаилов и компонентов React",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "plop": "plop"
+  },
+  "keywords": [],
+  "author": "Roman Kulish ",
+  "license": "ISC",
+  "devDependencies": {
+    "plop": "^3.1.2"
+  }
+}
